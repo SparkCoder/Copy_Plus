@@ -1,0 +1,74 @@
+<center><b><u>Files Copying</u></b></center> 
+<br> 
+You can copy large selection of files by:- 
+<br> 
+<ul> 
+<li>Selecting Files Category 
+<li>Pressing the start button 
+<li>Start copying by normal method one by one (right-click or ctrlc) 
+<li>Once you are done press the stop button 
+<li>Now if you wish, you may press the edit button to edit your selection. 
+<li>Press the clear button after selection to remove them. 
+<li>After this you should press the paste button to paste in your desired location. 
+<li>You can press the clear button to clear all data in the category. 
+</ul> 
+<br> 
+This update our database as you simply copy a file or group of files with it dynamically. 
+<br> 
+This means you dont have to keep pressing the shift or ctrl key to select large no: of files. 
+
+<center><b><u>Folder Copying</u></b></center> 
+<br> 
+You can copy large selection of Folders by:- 
+<br> 
+<ul> 
+<li>Selecting Folder Category 
+<li>Pressing the start button 
+<li>Start copying by normal method one by one (right-click or ctrlc) 
+<li>Once you are done press the stop button 
+<li>Now if you wish, you may press the edit button to edit your selection. 
+<li>Press the clear button after selection to remove them. 
+<li>After this you should press the paste button to paste in your desired location. 
+<li>You can press the clear button to clear all data in the category. 
+</ul> 
+<br> 
+This update our database as you simply copy a folder or group of folders with it dynamically. 
+<br> 
+This means you dont have to keep pressing the shift or ctrl key to select large no: of folders.
+
+<center><b><u>Text Copying</u></b></center> 
+<br> 
+You can copy large no: Text from different sources by:- 
+<br> 
+<ul> 
+<li>Selecting Text Category 
+<li>Pressing the start button 
+<li>Start copying by normal method one by one (right-click or ctrlc) 
+<li>Once you are done press the stop button 
+<li>Now if you wish, you may press the edit button to edit your selection. 
+<li>Press the edit button after editing to edit them. 
+<li>After this you should press the paste button to paste the final result in your clipboard. 
+<li>You can press the clear button to clear all data in the category. 
+</ul> 
+<br> 
+This update our database as you simply copy text with it dynamically. 
+<br> 
+This means you dont have to keep pressing the shift or ctrl key to select large no: of text.
+
+<center><b><u>Short Keys</u></b></center> 
+<br> 
+Short keys:- 
+<br> 
+<ul> 
+<li>S - Start/Stop 
+<li>P - Paste 
+<li>E - Edit 
+<li>C - Clear 
+<li>CTRLN - New Copy List 
+<li>CTRLO - Open existing Copy List 
+<li>CTRLS - Save current Copy List 
+<li>CTRLSHIFTS - Save current Copy List with new Name 
+<li>You may Enable/Disable Auto clear in Action menu to automatically clear database after one paste. 
+</ul> 
+<br> 
+By saving, you can retrieve you 'list of files to copy' later.
