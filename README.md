@@ -1,7 +1,7 @@
 # Copy_Plus
 Reduces Errors in mass selective copying.
 
-#Use
+# Use
 Now you no longer need to keep holding ctrl button to copy specific files.
 
 This app helps you copy a number of files, folders or text from a large unorganised group to anywhere in your computer at just a click of button.
